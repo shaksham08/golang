@@ -16,4 +16,6 @@ func main() {
 	createdDate := time.Date(2020, time.August, 12, 23, 23, 0, 0, time.UTC)
 	fmt.Println(createdDate)
 	fmt.Println(createdDate.Format("01-02-2006 Monday"))
+	
+	// goos "windows" go build
 }
