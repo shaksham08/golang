@@ -26,4 +26,8 @@ pkg - runtime is a package for the Garbage collector
 
 
 
+By default pointers have value nil
+
+
+
  
